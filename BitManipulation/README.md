@@ -9,8 +9,7 @@ Topics Covered
 - Set a Bit
 - Clear a Bit
 - Update a Bit
-- Clear Last i Bits
 - Check Power of Two
 - Count Set Bits
-- Fast Exponentiation
+
 
